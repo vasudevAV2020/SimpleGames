@@ -2,7 +2,7 @@
 
 Tic-Tac-Glow is a classic Tic-Tac-Toe game with a twist! Enjoy a game of strategy and skill with a vibrant gradient background and the option to choose your marker. The game provides a pop-up interface for marker selection and displays the game status in a stylish pop-up, making it an engaging and visually appealing gaming experience.
 
-You can Play this game here https://tic-tac-glow.tiiny.site/
+You can Play this game here https://vasudevav2020.github.io/SimpleGames/Tic-Tac-Toe/index.html or https://tic-tac-glow.tiiny.site/
 
 ## Features
 
